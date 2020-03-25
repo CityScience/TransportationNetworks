@@ -2,10 +2,11 @@
 <NUMBER OF NODES> 74
 <FIRST THRU NODE> 1
 <NUMBER OF LINKS> 258
+<ORIGINAL HEADER>~	Init node	Term node	Capacity	Length	Free Flow Time	B	Power	Speed limit	Toll  Type
 <END OF METADATA>
 
 
-~	Init node	Term node	Capacity	Length	Free Flow Time	B	Power	Speed limit	Toll  Type
+~	init_node	term_node	capacity	length	free_flow_time	b	power	speed	toll	link_type	;
 	1	3	4938.061313	16.106817	0.238965	0.15	4	0.000000	0.000000	0	;
 	3	1	5254.128510	16.057131	0.240297	0.15	4	0.000000	0.000000	0	;
 	1	7	7309.824721	16.058740	0.222813	0.15	4	0.000000	0.000000	0	;

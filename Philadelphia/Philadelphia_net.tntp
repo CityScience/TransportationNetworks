@@ -2,13 +2,11 @@
 <NUMBER OF NODES> 13389									  		
 <FIRST THRU NODE> 1526									  		
 <NUMBER OF LINKS> 40003									  		
- 									 		
-<LOCATION> "Philadelphia, PA"
-<SCENARIO> "Build"								  		
+<SCENARIO> "Build"		
+<ORIGINAL HEADER>~	from	to	capacity	length	ftime	B	Power	speed	toll	type	
 <END OF METADATA>									  		
- 											
 
-~	from	to	capacity	length	ftime	B	Power	speed	toll	type	
+~	init_node	term_node	capacity	length	free_flow_time	b	power	speed	toll	link_type	;
 	1	4067	999999	0.12	0	0.15	4	0.4	0	7	;
 	1	4073	999999	0.12	0	0.15	4	0.4	0	7	;
 	1	4075	999999	0.12	0	0.15	4	0.4	0	7	;
